@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shuyueW1991
-- 👀 I’m interested in using code to realize my dream in real world.
-- 🌱 I’m currently working on generative AI, while I have experience in machine learning and backend-frontend jobs.
-- 💞️ I’m looking to collaborate on those things.
+- 👀 I’m interested in code my dreams in real world.
+- 🌱 I’m currently working on creative and generative things.
+- 💞️ I would appreciate every help to me.
 - 📫 You can reach me via henri_w_91@hotmail.com
 
 <!---
