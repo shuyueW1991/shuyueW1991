@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shuyueW1991
-- 👀 I’m interested in coding my dreams.
-- 🌱 I’m currently working on creative and generative things.
-- 💞️ I appreciate every help to me, and I would do the same to the community.
+- 👀 I’m interested in coding so that ideas realizes in real life.
+- 🌱 I’m currently working on GenAI and multi-modal stuff.
+- 💞️ I appreciate every help to me, and I am trying to do the same to the community.
 - 📫 You can reach me via henri_w_91@hotmail.com
 
 <!---
