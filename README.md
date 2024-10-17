@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shuyueW1991
+- 👋 Hi, I’m PrgM2 (/pRˈɡem/2), M3ane~
 - 👀 I’m interested in coding so that ideas realizes in real life.
 - 🌱 I’m currently working on GenAI and multi-modal stuff.
 - 💞️ I appreciate every help to me, and I am trying to do the same to the community.
